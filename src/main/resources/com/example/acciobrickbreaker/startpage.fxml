@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.acciobrickbreaker.HelloApplication">
+   <children>
+      <Button contentDisplay="CENTER" layoutX="140.0" layoutY="163.0" mnemonicParsing="false" onAction="#onHelloButtonClick" prefHeight="90.0" prefWidth="300.0" text="Click to play the Game" textAlignment="CENTER" textFill="#19e53bfb">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font></Button>
+   </children>
+</AnchorPane>
